@@ -1,0 +1,12 @@
+{
+  "name": "simple-uploading-server",
+  "version": "0.0.1",
+  "description": "A simple file uploader I made in node",
+  "author": "KitsumiTheFox",
+  "license": "Zlib",
+  "dependencies": {
+    "express": "^4.13.3",
+    "jsonfile": "^2.2.3",
+    "multer": "^1.1.0"
+  }
+}
