@@ -15,7 +15,7 @@ sudo node server.js
 
 Zlib licence
 ```
-  Copyright (C) 2015-2016 KitsumiTheFox(Jayce Webb)
+  Copyright (C) 2015-2016 Jayce (Kit) Webb
 
   This software is provided 'as-is', without any express or implied
   warranty.  In no event will the authors be held liable for any damages
