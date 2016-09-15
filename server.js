@@ -30,7 +30,7 @@ var upload = multer({
 function nameGen() {
     var name = (Math.floor(Math.random() * (2821109907455 - 806031402130 + 1)) + 806031402130).toString(36);
     if (database.filenames.indexOf(name) != -1) {
-        nameGen();
+        return nameGen();
     } else {
         return name;
     }
