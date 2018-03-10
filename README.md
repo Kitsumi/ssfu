@@ -1,9 +1,9 @@
 # SSFU
-##Super Simple File Uploader
+## Super Simple File Uploader
 
 A super simple file uploader writted in Node.js
 
-##Install
+## Install
 
 ```
 cd YOUR_DIRECTORY_HERE
@@ -11,7 +11,7 @@ npm install
 sudo node server.js
 ```
 
-##Licence
+## Licence
 
 Zlib licence
 ```
